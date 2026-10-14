@@ -1,0 +1,62 @@
+# Deepwick for Alacritty
+
+[colors.primary]
+background = "#04041a"
+foreground = "#D4D4D4"
+bright_foreground = "#FFFFFF"
+
+[colors.cursor]
+text = "#04041a"
+cursor = "#D4D4D4"
+
+[colors.vi_mode_cursor]
+text = "#04041a"
+cursor = "#D4D4D4"
+
+[colors.selection]
+text = "#D4D4D4"
+background = "#264F78"
+
+[colors.search.matches]
+foreground = "#D4D4D4"
+background = "#264F78"
+
+[colors.search.focused_match]
+foreground = "#D7BA7D"
+background = "#264F78"
+
+[colors.hints.start]
+foreground = "#04041a"
+background = "#569CD6"
+
+[colors.hints.end]
+foreground = "#04041a"
+background = "#9CDCFE"
+
+[colors.line_indicator]
+foreground = "#04041a"
+background = "#569CD6"
+
+[colors.footer_bar]
+foreground = "#04041a"
+background = "#569CD6"
+
+[colors.normal]
+black = "#1B2140"
+red = "#F44747"
+green = "#57A64A"
+yellow = "#DCDCAA"
+blue = "#569CD6"
+magenta = "#C586C0"
+cyan = "#4EC9B0"
+white = "#D4D4D4"
+
+[colors.bright]
+black = "#6E7899"
+red = "#FF7A7A"
+green = "#7FC46E"
+yellow = "#F2F2C4"
+blue = "#9CDCFE"
+magenta = "#E0A8DC"
+cyan = "#7FE5CF"
+white = "#FFFFFF"
